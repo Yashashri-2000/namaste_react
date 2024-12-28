@@ -33,3 +33,7 @@ import {Component} from "path";
 (Normal JS uitility functions)
 -useState()--> used to generate state variable in react
 -useEffect()
+
+# 2 types routing in web apps
+- Client side routing
+- Server side routing
